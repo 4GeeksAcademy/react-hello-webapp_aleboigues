@@ -49,7 +49,7 @@ const AddContact = () => {
         placeholder="Email"
         required
       />
-      <button type="submit">Add Contact</button>
+      <button type="submit">Add Contactt</button>
     </form>
   );
 };
